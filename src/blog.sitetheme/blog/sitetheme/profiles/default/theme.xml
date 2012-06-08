@@ -1,0 +1,5 @@
+<!-- make the sitetheme package enabled-->
+<theme>
+    <name>blog.sitetheme</name>
+    <enabled>true</enabled>
+</theme>

@@ -1,0 +1,4 @@
+setuptools
+plone.app.dexterity
+plone.app.theming
+plone.namedfile [blobs]
